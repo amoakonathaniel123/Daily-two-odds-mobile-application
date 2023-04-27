@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1067158849640",
+    "project_id": "two-odds",
+    "storage_bucket": "two-odds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067158849640:android:ce0eda8aad8105ba1953dd",
+        "android_client_info": {
+          "package_name": "com.example.two_odds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067158849640-90gobqbu0u587b6kq6bg518manitm3o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ZM7P99IyB2YDlpdzmJ9r6cLoOlnuwUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067158849640-90gobqbu0u587b6kq6bg518manitm3o7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
